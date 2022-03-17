@@ -4,14 +4,11 @@
 [![Website](https://img.shields.io/website?label=canpixel.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/canpixel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FCanPixel&screen_name=CanPixel)
 
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-
-
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm an indie Game Developer/Designer, Composer & Musician!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2022 Goals: Learn more about GODOT
 - ⚡ Fun fact: I play guitar, drums & bass!
 
 ### Connect with me:
