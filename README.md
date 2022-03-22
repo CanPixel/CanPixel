@@ -38,6 +38,10 @@
 <br>
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanPixel&layout=compact)](https://github.com/CanPixel)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CanPixel&repo=BadOptics)](https://github.com/CanPixel/BadOptics)
+
 ---
 
 ### 📺 Latest YouTube Videos
@@ -53,19 +57,6 @@
 ➡️ [more videos...](https://youtube.com/superbowserfreak11)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#5](https://github.com/codeSTACKr/nft-landing-page/pull/5) in [codeSTACKr/nft-landing-page](https://github.com/codeSTACKr/nft-landing-page)
-2. 💪 Opened PR [#1580](https://github.com/anuraghazra/github-readme-stats/pull/1580) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. 🗣 Commented on [#1572](https://github.com/anuraghazra/github-readme-stats/issues/1572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-4. 🎉 Merged PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-5. 💪 Opened PR [#1](https://github.com/mongodb-developer/mongodb-ecommerce/pull/1) in [mongodb-developer/mongodb-ecommerce](https://github.com/mongodb-developer/mongodb-ecommerce)
-<!--END_SECTION:activity-->
-
-</details>
 
 <details>
 <summary>:zap: GitHub Stats</summary>
