@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [BEST PFP Generator: Create An ENTIRE NFT Collection &lpar;10,000+&rpar; &amp; MINT With ZERO Coding Knowledge](https://www.youtube.com/watch?v=quGdJweadFM)
-- [STOP!! Know Before You Buy or Sell! Is Your NFT Rare? - NFT Rarity Calculator](https://www.youtube.com/watch?v=Uz1y4j9gvP8)
-- [ERC-1155 Contracts Explained | Ethereum Blockchain](https://www.youtube.com/watch?v=S-2TuS9ISAg)
-- [ERC-721 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=UCQaEbIyHcM)
-- [ERC-20 Contracts Explained! | Ethereum Blockchain](https://www.youtube.com/watch?v=v5BPna3v1Pw)
+- [BAD OPTICS - The IdeologyDex™](https://www.youtube.com/watch?v=K7EKYMtiSzc)
+- [BAD OPTICS - Censoring!](https://www.youtube.com/watch?v=GkWwrgQaC9o)
+- [LifeSentence [old version]](https://www.youtube.com/watch?v=TDY7mNOLW9U)
+- [Skillustrate - The Game That Judges You!](https://www.youtube.com/watch?v=A61jhgtA_D4)
+- [CANALYSE: Måneskin - Zitti E Buoni](https://www.youtube.com/watch?v=zOkJnB48rsI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/superbowserfreak11)
