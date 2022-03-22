@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/canpixel#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/Superbowserfreak11#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/Superbowserfreak11#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/PhuckYuToo#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/PhuckYuToo#gh-dark-mode-only)
@@ -92,8 +92,7 @@
 
 [website]: https://canpixel.com
 [twitter]: https://twitter.com/PhuckYuToo
-[youtube]: https://www.youtube.com/channel/UCMXAZOEUz87tNZB-3ExX4pw
+[youtube]: https://www.youtube.com/channel/Superbowserfreak11
 [instagram]: https://instagram.com/cannemen
 [linkedin]: https://www.linkedin.com/in/canpixel/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
