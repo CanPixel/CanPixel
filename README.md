@@ -93,4 +93,5 @@
 [youtube]: https://www.youtube.com/channel/Superbowserfreak11
 [instagram]: https://instagram.com/cannemen
 [linkedin]: https://www.linkedin.com/in/canpixel/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[gamesplaylist]: https://www.youtube.com/playlist?list=PLRYyr9-YJbttxhXQSBx9br4nCtZBRG2x9
+[musicplaylist]: https://www.youtube.com/playlist?list=PLRYyr9-YJbtvphc8WIcBRODkFm5vgxWao 
