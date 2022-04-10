@@ -13,17 +13,17 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/Superbowserfreak11#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/Superbowserfreak11#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://youtube.com/Superbowserfreak11)
+[![website](./img/youtube-dark.svg)](https://youtube.com/Superbowserfreak11)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/PhuckYuToo#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/PhuckYuToo#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/PhuckYuToo)
+[![website](./img/twitter-dark.svg)](https://twitter.com/PhuckYuToo)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/canpixel#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/canpixel#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/canpixel)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/canpixel)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/cannemen#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/cannemen#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/cannemen)
+[![website](./img/instagram-dark.svg)](https://instagram.com/cannemen)
 
 ### Languages and Tools:
 
