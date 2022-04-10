@@ -4,12 +4,12 @@
 [![Website](https://img.shields.io/website?label=canpixel.com&style=for-the-badge&url=https%3A%2F%2Fcanpixel.com)](https://canpixel.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/canpixel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPhuckYuToo&screen_name=PhuckYuToo)
 
-## I'm an Indie Game Developer / Designer, Composer & Musician!
+## I'm an Indie Game Developer / Designer, Composer & Musician! 🎸
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about GODOT
-- ⚡ Fun fact: I play guitar, drums & bass!
+- 🌱 Ideological Content Guy for <a href='https://github.com/CanPixel/BadOptics'>The Gamified Political Compass</a>
+- 👯 Up for cool collaborations with other content creators! Let the genres bend!
+- 🥅 2022 Goals: Learn more about GODOT, build a community for <a href='https://github.com/CanPixel/BadOptics'>Bad Optics!</a>
+- ⚡ Fun fact: I play guitar, drums & bass! 🎸🥁
 
 ### Connect with me:
 
