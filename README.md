@@ -34,7 +34,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;">
 <img align="left" alt="C#" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
 <img align="left" alt="C++" width="34px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;">
+<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10px;">
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
