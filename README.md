@@ -6,7 +6,7 @@
 
 ## I'm an Indie Game Developer / Designer, Composer & Musician! 🎸
 
-- 🌱 Ideological Content Guy for <a href='https://github.com/CanPixel/BadOptics'>The Gamified Political Compass</a>
+- 🌱 Ideological Content Guy for The <a href='https://github.com/CanPixel/BadOptics'>Gamified Political Compass</a>
 - 👯 Up for cool collaborations with other content creators! Let the genres bend!
 - 🥅 2022 Goals: Learn more about GODOT, build a community for <a href='https://github.com/CanPixel/BadOptics'>Bad Optics!</a>
 - ⚡ Fun fact: I play guitar, drums & bass! 🎸🥁
