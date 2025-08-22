@@ -54,7 +54,6 @@
 - [BAD OPTICS - The IdeologyDex™](https://www.youtube.com/watch?v=K7EKYMtiSzc)
 - [BAD OPTICS - Censoring!](https://www.youtube.com/watch?v=GkWwrgQaC9o)
 - [LifeSentence [old version]](https://www.youtube.com/watch?v=TDY7mNOLW9U)
-- [Skillustrate - The Game That Judges You!](https://www.youtube.com/watch?v=A61jhgtA_D4)
 - [CANALYSE: Måneskin - Zitti E Buoni](https://www.youtube.com/watch?v=zOkJnB48rsI)
 <!-- YOUTUBE:END -->
 
