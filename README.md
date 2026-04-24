@@ -2,9 +2,8 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=canpixel.com&style=for-the-badge&url=https%3A%2F%2Fcanpixel.com)](https://canpixel.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/canpixel?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPhuckYuToo&screen_name=PhuckYuToo)
 
-## I'm an Indie Game Developer / Designer, Composer & Musician! 🎸
+## I'm a Software Engineer, Indie Game Developer & Designer, Composer & Musician! 🎸
 
 - 🌱 Ideological Content Guy for The <a href='https://github.com/CanPixel/BadOptics'>Gamified Political Compass</a>
 - 👯 Up for cool collaborations with other content creators! Let the genres bend!
@@ -13,11 +12,8 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://youtube.com/Superbowserfreak11)
-[![website](./img/youtube-dark.svg)](https://youtube.com/Superbowserfreak11)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/PhuckYuToo)
-[![website](./img/twitter-dark.svg)](https://twitter.com/PhuckYuToo)
+[![website](./img/youtube-light.svg)](https://youtube.com/@Cannemen)
+[![website](./img/youtube-dark.svg)](https://youtube.com/@Cannemen)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/canpixel)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/canpixel)
