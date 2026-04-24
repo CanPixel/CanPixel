@@ -3,12 +3,12 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=canpixel.com&style=for-the-badge&url=https%3A%2F%2Fcanpixel.com)](https://canpixel.com)
 
-## I'm a Software Engineer, Indie Game Developer & Designer, Composer & Musician! 🎸
+## I'm a Software Engineer, Indie Game Developer & Designer, Composer & Musician 🎸
 
-- 🌱 Ideological Content Guy for The <a href='https://github.com/CanPixel/BadOptics'>Gamified Political Compass</a>
+- 🌱 Ideological Sorceror of The <a href='https://github.com/CanPixel/BadOptics'>Gamified Political Compass</a>
 - 👯 Up for cool collaborations with other content creators! Let the genres bend!
-- 🥅 2022 Goals: Learn more about GODOT, build a community for <a href='https://github.com/CanPixel/BadOptics'>Bad Optics!</a>
-- ⚡ Fun fact: I play guitar, drums & bass! 🎸🥁
+- 🥅 Future: (Finally) make a new update for <a href='https://github.com/CanPixel/BadOptics'>Bad Optics!</a>
+- ⚡ I play guitar, drums & bass. 🎸🥁
 
 ### Connect with me:
 
