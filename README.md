@@ -36,7 +36,7 @@
 <img align="left" alt="Arduino" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img align="left" alt="React" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 <br>
 <br>
