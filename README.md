@@ -34,6 +34,9 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
+<br>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 </div>
 <br>
 <br>
