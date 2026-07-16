@@ -6,7 +6,7 @@
 #### Discover My Realms:
 ### [CanPixel Realms (Portfolio)](www.CanPixel.com)
 
-## Software Engineer. Indie Game Developer, Designer. Composer / Musician. 🎸
+### Software Engineer. Indie Game Developer, Designer. Composer/Musician 🎸
 
 - 🌱 Ideological Sorceror of The <a href='https://github.com/CanPixel/BadOptics'>Gamified Political Compass</a>
 - 👯 Up for cool collaborations or web/game/app commissions! Let game genres bend!
