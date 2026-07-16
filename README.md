@@ -1,10 +1,18 @@
-# Yoo I'm Can - aka [CanPixel][youtube] 👋 
+███████████████████████████████████████████████████████████████
+
+                CANPIXEL
+
+         Interactive Worlds
+
+███████████████████████████████████████████████████████████████
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=canpixel.com&style=for-the-badge&url=https%3A%2F%2Fcanpixel.com)](https://canpixel.com)
 
-#### Discover My Realms:
-### [CanPixel Realms (Portfolio)](www.CanPixel.com)
+Building games, software and music that explore
+systems, creativity and unconventional ideas.
+
+#### Discover [My Realms](www.CanPixel.com)
 
 ### Software Engineer. Indie Game Developer & Designer. Composer. Musician 🎸
 
