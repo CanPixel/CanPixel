@@ -58,16 +58,10 @@
 
 ---
 
-### 📺 Latest Apps
+### 📺 Apps I've Made
 
-<!-- YOUTUBE:START -->
-- [BAD OPTICS - The IdeologyDex™](https://www.youtube.com/watch?v=K7EKYMtiSzc)
-- [BAD OPTICS - Censoring!](https://www.youtube.com/watch?v=GkWwrgQaC9o)
-- [LifeSentence [old version]](https://www.youtube.com/watch?v=TDY7mNOLW9U)
-- [Frisking Ruins - Bullet Hell Survival](https://www.youtube.com/watch?v=7GolsRuCwL0)
-- [Ohm My Lord! - Electronic Mishmash](https://www.youtube.com/watch?v=lHhNvLmckwM)
-- [Chivalry Chef - Medieval Cooking Battle Royale](https://www.youtube.com/watch?v=FbSoWeMh10Y)
-<!-- YOUTUBE:END -->
+#### ÆTHER - Local AI Research Engine & Browser - [use-aether.web.app](https://use-aether.web.app)
+#### CunAI - Ancient Sumerian linguistic search with modern semantic vector retrieval - [cunai.app](https://cunai.app)
 
 ---
 
