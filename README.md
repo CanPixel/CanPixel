@@ -1,10 +1,10 @@
-███████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████
 
                 CANPIXEL
 
          Interactive Worlds
 
-███████████████████████████████████████████████████████████████
+██████████████████████████████████████████████████████████
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=canpixel.com&style=for-the-badge&url=https%3A%2F%2Fcanpixel.com)](https://canpixel.com)
