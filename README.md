@@ -6,25 +6,22 @@
 #### Discover My Realms:
 ### [CanPixel Realms (Portfolio)](www.CanPixel.com)
 
-### Software Engineer. Indie Game Developer, Designer. Composer/Musician 🎸
+### Software Engineer. Indie Game Developer & Designer. Composer. Musician 🎸
 
 - 🌱 Ideological Sorceror of The <a href='https://github.com/CanPixel/BadOptics'>Gamified Political Compass</a>
 - 👯 Up for cool collaborations or web/game/app commissions! Let game genres bend!
 - 🥅 Future: (Finally) make a new update for <a href='https://github.com/CanPixel/BadOptics'>Bad Optics!</a>
 - ⚡ I play guitar, drums & bass as a professional musician as well. Check out [ZIGGURATH](https://open.spotify.com/artist/4jUYHcbMXtVkLlJbf2jY7x?si=OBKmJJ4PRmKfCMZ_1IgoWA)! 🎸🥁
 
-### Connect with me:
+### Connect with me
 
-[![website](./img/youtube-light.svg)](https://youtube.com/@Cannemen)
 [![website](./img/youtube-dark.svg)](https://youtube.com/@Cannemen)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/canpixel)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/canpixel)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/cannemen)
 [![website](./img/instagram-dark.svg)](https://instagram.com/cannemen)
 
-### Languages and Tools:
+### Languages and Tools
 <img align="left" alt="Unity Engine" width="26px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;">
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;">
@@ -37,7 +34,7 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Blender" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/blender/blender-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Arduino" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
-
+<br clear="left">
 <img align="left" alt="React" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="Vue" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
 <img align="left" alt="MySQL" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
@@ -46,15 +43,9 @@
 <img align="left" alt="CakePHP" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cakephp/cakephp-original.svg" />
 <img align="left" alt="Ruby on Rails" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-plain.svg" />
 <img align="left" alt="Electron" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+<img align="left" alt="Tauri" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tauri/tauri-original.svg" />
 
-<br>
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CanPixel&layout=compact&cache_seconds=86400)](https://github.com/CanPixel)
-
-[![Bad Optics](https://github-readme-stats.vercel.app/api/pin/?username=CanPixel&repo=BadOptics&cache_seconds=86400)](https://github.com/CanPixel/BadOptics)
-
-[![CanPixel's GitHub stats](https://github-readme-stats.vercel.app/api?username=CanPixel&show_icons=true&theme=github_dark)](https://github.com/CanPixel)
+<br clear="left">
 
 ---
 
@@ -79,7 +70,9 @@
 ---
 
 ## ⚡ GitHub Scoreboard
-<img alt="CanPixel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CanPixel&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+<img src="./github-metrics.svg" alt="GitHub Metrics">
+
 
 [website]: https://canpixel.com
 [youtube]: https://www.youtube.com/channel/@Cannemen
